@@ -1,0 +1,187 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Sixteen Clothing</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="~/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="~/assets/css/fontawesome.css" />
+    <link rel="stylesheet" href="~/assets/css/templatemo-sixteen.css" />
+    <link rel="stylesheet" href="~/assets/css/owl.css" />
+</head>
+<body>
+    <!-- Header -->
+    <header class="">
+        <nav class="navbar navbar-expand-lg">
+            <div class="container">
+                <a class="navbar-brand" asp-controller="Home" asp-action="Index">
+                    <h2>Sixteen <em>Clothing</em></h2>
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                        data-target="#navbarResponsive" aria-controls="navbarResponsive"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="categoriesDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Category 
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="categoriesDropdown" id="categoriesDropdownMenu">
+                                <div class="dropdown-loading">
+                                    <div class="spinner-border spinner-border-sm" role="status">
+                                        <span class="sr-only">Loading...</span>
+                                    </div>
+                                    Loading...
+                                </div>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Products">Our Products</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="About">About Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Contact">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Nội dung trang con sẽ hiển thị tại đây -->
+    <div class="main-content">
+        @RenderBody()
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="inner-content">
+                        <p>
+                            Copyright &copy; 2020 Sixteen Clothing Co., Ltd.
+                            - Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="~/vendor/jquery/jquery.min.js"></script>
+    <script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <script src="~/assets/js/custom.js"></script>
+    <script src="~/assets/js/owl.js"></script>
+    <script src="~/assets/js/slick.js"></script>
+    <script src="~/assets/js/isotope.js"></script>
+    <script src="~/assets/js/accordions.js"></script>
+
+    @RenderSection("Scripts", required: false)
+
+    <style>
+        .dropdown-menu {
+            min-width: 200px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            padding: 10px 0;
+        }
+        
+        .dropdown-item {
+            padding: 8px 20px;
+            color: #333;
+            text-decoration: none;
+            display: block;
+            transition: background-color 0.2s;
+        }
+        
+        .dropdown-item:hover {
+            background-color: #f8f9fa;
+            color: #007bff;
+        }
+        
+        .dropdown-loading {
+            padding: 10px 20px;
+            text-align: center;
+            color: #666;
+            font-size: 14px;
+        }
+        
+        .dropdown-toggle::after {
+            margin-left: 5px;
+        }
+        
+        .nav-item.dropdown:hover .dropdown-menu {
+            display: block;
+        }
+    </style>
+
+    <script>
+        $(document).ready(function() {
+            var categoriesLoaded = false;
+            
+            // Load categories when dropdown is shown
+            $('#categoriesDropdown').on('click', function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                
+                var dropdown = $('#categoriesDropdownMenu');
+                
+                // Load categories only once
+                if (!categoriesLoaded) {
+                    $.ajax({
+                        url: '@Url.Action("GetCategories", "Home")',
+                        type: 'GET',
+                        success: function(categories) {
+                            dropdown.empty();
+                            
+                            if (categories && categories.length > 0) {
+                                categories.forEach(function(category) {
+                                    var item = $('<a class="dropdown-item" href="#">' + category.name + '</a>');
+                                    dropdown.append(item);
+                                });
+                            } else {
+                                dropdown.append('<div class="dropdown-item">No categories available</div>');
+                            }
+                            categoriesLoaded = true;
+                        },
+                        error: function() {
+                            dropdown.empty();
+                            dropdown.append('<div class="dropdown-item">Error loading categories</div>');
+                            categoriesLoaded = true;
+                        }
+                    });
+                }
+                
+                // Toggle dropdown
+                dropdown.toggle();
+            });
+            
+            // Close dropdown when clicking outside
+            $(document).on('click', function(e) {
+                if (!$(e.target).closest('.dropdown').length) {
+                    $('#categoriesDropdownMenu').hide();
+                }
+            });
+        });
+    </script>
+</body>
+</html>

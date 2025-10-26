@@ -1,0 +1,521 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/obj/Debug/net8.0/scopedcss/projectbundle/WebApplication1.bundle.scp.css",
+      "PackagePath": "staticwebassets/WebApplication1.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/css/flex-slider.css",
+      "PackagePath": "staticwebassets/assets/css/flex-slider.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/css/fontawesome.css",
+      "PackagePath": "staticwebassets/assets/css/fontawesome.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/css/owl.css",
+      "PackagePath": "staticwebassets/assets/css/owl.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/css/templatemo-sixteen.css",
+      "PackagePath": "staticwebassets/assets/css/templatemo-sixteen.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/fonts/Flaticon.woff",
+      "PackagePath": "staticwebassets/assets/fonts/Flaticon.woff"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/assets/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/fonts/flexslider-icon.eot",
+      "PackagePath": "staticwebassets/assets/fonts/flexslider-icon.eot"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/fonts/flexslider-icon.svg",
+      "PackagePath": "staticwebassets/assets/fonts/flexslider-icon.svg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/fonts/flexslider-icon.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/flexslider-icon.ttf"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/fonts/flexslider-icon.woff",
+      "PackagePath": "staticwebassets/assets/fonts/flexslider-icon.woff"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/fonts/slick.eot",
+      "PackagePath": "staticwebassets/assets/fonts/slick.eot"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/fonts/slick.svg",
+      "PackagePath": "staticwebassets/assets/fonts/slick.svg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/fonts/slick.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/slick.ttf"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/fonts/slick.woff",
+      "PackagePath": "staticwebassets/assets/fonts/slick.woff"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/about-heading.jpg",
+      "PackagePath": "staticwebassets/assets/images/about-heading.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/client-01.png",
+      "PackagePath": "staticwebassets/assets/images/client-01.png"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/contact-heading.jpg",
+      "PackagePath": "staticwebassets/assets/images/contact-heading.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/feature-image.jpg",
+      "PackagePath": "staticwebassets/assets/images/feature-image.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/more-info.jpg",
+      "PackagePath": "staticwebassets/assets/images/more-info.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/product_01.jpg",
+      "PackagePath": "staticwebassets/assets/images/product_01.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/product_02.jpg",
+      "PackagePath": "staticwebassets/assets/images/product_02.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/product_03.jpg",
+      "PackagePath": "staticwebassets/assets/images/product_03.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/product_04.jpg",
+      "PackagePath": "staticwebassets/assets/images/product_04.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/product_05.jpg",
+      "PackagePath": "staticwebassets/assets/images/product_05.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/product_06.jpg",
+      "PackagePath": "staticwebassets/assets/images/product_06.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/products-heading.jpg",
+      "PackagePath": "staticwebassets/assets/images/products-heading.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/services-bg.jpg",
+      "PackagePath": "staticwebassets/assets/images/services-bg.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/slide_01.jpg",
+      "PackagePath": "staticwebassets/assets/images/slide_01.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/slide_02.jpg",
+      "PackagePath": "staticwebassets/assets/images/slide_02.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/slide_03.jpg",
+      "PackagePath": "staticwebassets/assets/images/slide_03.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/team_01.jpg",
+      "PackagePath": "staticwebassets/assets/images/team_01.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/team_02.jpg",
+      "PackagePath": "staticwebassets/assets/images/team_02.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/team_03.jpg",
+      "PackagePath": "staticwebassets/assets/images/team_03.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/team_04.jpg",
+      "PackagePath": "staticwebassets/assets/images/team_04.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/team_05.jpg",
+      "PackagePath": "staticwebassets/assets/images/team_05.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/images/team_06.jpg",
+      "PackagePath": "staticwebassets/assets/images/team_06.jpg"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/js/accordions.js",
+      "PackagePath": "staticwebassets/assets/js/accordions.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/js/custom.js",
+      "PackagePath": "staticwebassets/assets/js/custom.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/js/isotope.js",
+      "PackagePath": "staticwebassets/assets/js/isotope.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/js/owl.js",
+      "PackagePath": "staticwebassets/assets/js/owl.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/assets/js/slick.js",
+      "PackagePath": "staticwebassets/assets/js/slick.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/vendor/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/vendor/bootstrap/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/vendor/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/vendor/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/vendor/bootstrap/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/vendor/bootstrap/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/vendor/bootstrap/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/vendor/bootstrap/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/vendor/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/vendor/bootstrap/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/vendor/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/vendor/bootstrap/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/vendor/jquery/jquery.js",
+      "PackagePath": "staticwebassets/vendor/jquery/jquery.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/vendor/jquery/jquery.min.js",
+      "PackagePath": "staticwebassets/vendor/jquery/jquery.min.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/vendor/jquery/jquery.min.map",
+      "PackagePath": "staticwebassets/vendor/jquery/jquery.min.map"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/vendor/jquery/jquery.slim.js",
+      "PackagePath": "staticwebassets/vendor/jquery/jquery.slim.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/vendor/jquery/jquery.slim.min.js",
+      "PackagePath": "staticwebassets/vendor/jquery/jquery.slim.min.js"
+    },
+    {
+      "Id": "/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/wwwroot/vendor/jquery/jquery.slim.min.map",
+      "PackagePath": "staticwebassets/vendor/jquery/jquery.slim.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

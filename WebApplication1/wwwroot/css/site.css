@@ -1,0 +1,45 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* Fix for login page header overlap - CHỈ áp dụng cho trang login */
+.login-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 120px; /* Đủ khoảng trống cho header */
+  position: relative;
+  z-index: 1;
+}
+
+/* Đảm bảo form login không bị đè bởi header */
+.login-page .container {
+  margin-top: 20px;
+  position: relative;
+  z-index: 2;
+}
+
+/* Đảm bảo trang chủ KHÔNG bị ảnh hưởng */
+.banner {
+  padding-top: 80px; /* Giữ nguyên padding cho banner trang chủ */
+}
