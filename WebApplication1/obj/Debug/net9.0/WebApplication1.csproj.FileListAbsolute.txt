@@ -423,3 +423,4 @@
 /Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/obj/Debug/net9.0/compressed/t0qo7o574p-dd6z7egasc.gz
 /Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/obj/Debug/net9.0/compressed/b9lhb08218-5pze98is44.gz
 /Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/obj/Debug/net9.0/compressed/sfr9826l73-t9h88rutq0.gz
+/Users/dangquocviet/Documents/phat_trien_web/WebApplication1/WebApplication1/obj/Debug/net9.0/WebApplication1.sourcelink.json

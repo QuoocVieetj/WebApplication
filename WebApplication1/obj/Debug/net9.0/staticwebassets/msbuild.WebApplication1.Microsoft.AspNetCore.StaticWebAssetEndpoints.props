@@ -40,13 +40,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\templatemo-sixteen.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-p7mlztCOEN6p3eqeVAcCBMM0ABMZGV\u002Bmo6go04B4hiE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"18631"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022p7mlztCOEN6p3eqeVAcCBMM0ABMZGV\u002Bmo6go04B4hiE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 02 Oct 2025 09:41:08 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"18631"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022p7mlztCOEN6p3eqeVAcCBMM0ABMZGV\u002Bmo6go04B4hiE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Nov 2025 05:07:53 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WebApplication1/assets/css/templatemo-sixteen.ltjcbbe6ub.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\templatemo-sixteen.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ltjcbbe6ub"},{"Name":"integrity","Value":"sha256-p7mlztCOEN6p3eqeVAcCBMM0ABMZGV\u002Bmo6go04B4hiE="},{"Name":"label","Value":"_content/WebApplication1/assets/css/templatemo-sixteen.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18631"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022p7mlztCOEN6p3eqeVAcCBMM0ABMZGV\u002Bmo6go04B4hiE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 02 Oct 2025 09:41:08 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18631"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022p7mlztCOEN6p3eqeVAcCBMM0ABMZGV\u002Bmo6go04B4hiE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Nov 2025 05:07:53 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WebApplication1/assets/fonts/Flaticon.ns5uaic8cf.woff">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Flaticon.woff'))</AssetFile>

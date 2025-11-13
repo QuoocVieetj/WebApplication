@@ -11,7 +11,7 @@
     
     
     <!-- Test button for categories -->
-    <div class="container" style="margin-top: 20px;">
+    <div class="container" style="margin-top: 0;">
         <div class="row">
             <div class="col-md-12">
                 <button id="seedCategoriesBtn" class="btn btn-primary">Seed Categories (Test)</button>
@@ -60,11 +60,11 @@
           
           @foreach (var item in Model)
           {
-            <div class="col-md-4">
+            <div class="col-md-4" href="/product/detail/@item.Id">
               <div class="product-item">
-                <a href="#"><img src="~/@item.ImagePath" alt=""></a>
+                <a href="javascript:void(0);"><img src="~/@item.ImagePath" alt=""></a>
                 <div class="down-content">
-                  <a href="#"><h4> @item.Name</h4></a>
+                  <a href="javascript:void(0);"><h4> @item.Name</h4></a>
                   <h6>$@item.Price</h6>
                   <p>@item.Description</p>
                   <ul class="stars">
@@ -206,11 +206,11 @@
               <h4>Looking for the best products?</h4>
               <p><a rel="nofollow" href="https://templatemo.com/tm-546-sixteen-clothing" target="_parent">This template</a> is free to use for your business websites. However, you have no permission to redistribute the downloadable ZIP file on any template collection website. <a rel="nofollow" href="https://templatemo.com/contact">Contact us</a> for more info.</p>
               <ul class="featured-list">
-                <li><a href="#">Lorem ipsum dolor sit amet</a></li>
-                <li><a href="#">Consectetur an adipisicing elit</a></li>
-                <li><a href="#">It aquecorporis nulla aspernatur</a></li>
-                <li><a href="#">Corporis, omnis doloremque</a></li>
-                <li><a href="#">Non cum id reprehenderit</a></li>
+                <li><a href="javascript:void(0);">Lorem ipsum dolor sit amet</a></li>
+                <li><a href="javascript:void(0);">Consectetur an adipisicing elit</a></li>
+                <li><a href="javascript:void(0);">It aquecorporis nulla aspernatur</a></li>
+                <li><a href="javascript:void(0);">Corporis, omnis doloremque</a></li>
+                <li><a href="javascript:void(0);">Non cum id reprehenderit</a></li>
               </ul>
               <a href="about.html" class="filled-button">Read More</a>
             </div>
@@ -236,7 +236,7 @@
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque corporis amet elite author nulla.</p>
                 </div>
                 <div class="col-md-4">
-                  <a href="#" class="filled-button">Purchase Now</a>
+                  <a href="javascript:void(0);" class="filled-button">Purchase Now</a>
                 </div>
               </div>
             </div>
